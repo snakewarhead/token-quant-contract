@@ -1,0 +1,28 @@
+{
+  "name": "token-quant-contract",
+  "version": "1.0.0",
+  "description": "token-quant-contract",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snakewarhead/token-quant-contract.git"
+  },
+  "keywords": [
+    "quant"
+  ],
+  "author": "lin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snakewarhead/token-quant-contract/issues"
+  },
+  "homepage": "https://github.com/snakewarhead/token-quant-contract#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "mongodb": "^4.5.0",
+    "web3": "^1.7.3"
+  }
+}
